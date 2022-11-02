@@ -18,7 +18,7 @@ Quality control specialist enters data from inspections. The following data is e
 ## User Interface Prototype
 
 Main Dashboard for display on production floor:
-![Main Dashboard](images/data%20display%20dashboard.PNG)
+![Main Dashboard](images/main%20dashboard.PNG)
 
 Sample of the Data Display Dashboard:
 ![Data Display Dashboard](images/data%20display%20dashboard.PNG)
